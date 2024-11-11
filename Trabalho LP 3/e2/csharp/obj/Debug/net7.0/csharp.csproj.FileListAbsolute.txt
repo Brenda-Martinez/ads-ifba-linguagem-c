@@ -1,0 +1,15 @@
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\bin\Debug\net7.0\csharp.exe
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\bin\Debug\net7.0\csharp.deps.json
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\bin\Debug\net7.0\csharp.runtimeconfig.json
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\bin\Debug\net7.0\csharp.dll
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\bin\Debug\net7.0\csharp.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.csproj.AssemblyReference.cache
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.AssemblyInfoInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.AssemblyInfo.cs
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.dll
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\refint\csharp.dll
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.pdb
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\csharp.genruntimeconfig.cache
+C:\Users\brend\OneDrive\Área de Trabalho\Trabalho LP 3\e2\csharp\obj\Debug\net7.0\ref\csharp.dll
